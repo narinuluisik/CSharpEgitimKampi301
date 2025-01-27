@@ -1,0 +1,14 @@
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.AssemblyReference.cache
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.SuggestedBindingRedirects.cache
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Form1.resources
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Properties.Resources.resources
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.GenerateResource.cache
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CoreCompileInputs.cache
+C:\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe.config
+C:\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe
+C:\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.pdb
+C:\CSharpEgitimKampi501\bin\Debug\Dapper.dll
+C:\CSharpEgitimKampi501\bin\Debug\Dapper.xml
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CopyComplete
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.exe
+C:\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.pdb
